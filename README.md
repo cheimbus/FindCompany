@@ -60,16 +60,23 @@ npm start
 그렇지만 sequelize에 대한 이해를 높히기 위해 위의 방법을 채택하였고 구현에 성공하여 높은 성취감과 이해도를 얻을 수 있었습니다.   
 typescript에 걸맞는 ORM인 typeORM을 공부하여 다음 프로젝트에 적용할 예정입니다.
 
-## 6. API 테스트
-> [API 문서는 여기서 확인해 주세요](https://documenter.getpostman.com/view/18430721/UzR1K2xC)
-<img width="1162" alt="스크린샷 2022-07-21 오후 8 36 47" src="https://user-images.githubusercontent.com/87293880/180205120-5fda0d93-e4d3-46fd-8e72-a757329a335f.png">
-<img width="1150" alt="스크린샷 2022-07-21 오후 8 37 02" src="https://user-images.githubusercontent.com/87293880/180205159-32be309e-770e-4104-98d1-3d801c898e27.png">
-<img width="1156" alt="스크린샷 2022-07-21 오후 8 37 14" src="https://user-images.githubusercontent.com/87293880/180204918-d291d42a-5e55-4bdc-a132-9a28b2b9565c.png">
-<img width="1156" alt="스크린샷 2022-07-21 오후 8 37 23" src="https://user-images.githubusercontent.com/87293880/180204936-556b488b-642b-4371-9040-62e9f8bc6488.png">
-<img width="1156" alt="스크린샷 2022-07-21 오후 8 37 33" src="https://user-images.githubusercontent.com/87293880/180204956-89d4b269-f475-4d2f-99db-24a1d46c7ed6.png">
-<img width="1156" alt="스크린샷 2022-07-21 오후 8 37 39" src="https://user-images.githubusercontent.com/87293880/180204966-7936a510-95b2-4e87-837c-dd8ee8351841.png">
+## 6. API 문서
+> [API 문서는 여기서 확인해 주세요](https://documenter.getpostman.com/view/18430721/UzR1LNVu)
+<img width="1157" alt="스크린샷 2022-07-22 오전 1 47 10" src="https://user-images.githubusercontent.com/87293880/180269569-bd6dfe1c-6066-4129-a8fe-9eb64228724a.png">
+<img width="1158" alt="스크린샷 2022-07-22 오전 1 47 18" src="https://user-images.githubusercontent.com/87293880/180269597-2b909a39-0804-420f-ba37-e755c965632b.png">
 
-<img width="1155" alt="스크린샷 2022-07-21 오후 8 37 55" src="https://user-images.githubusercontent.com/87293880/180204972-ccd5ac8f-20f3-46f7-b11b-421ef14e24f1.png">
+<img width="1158" alt="스크린샷 2022-07-22 오전 1 47 26" src="https://user-images.githubusercontent.com/87293880/180269611-c6ef80f9-f3e2-4183-a917-90046ab69a17.png">
+<img width="1158" alt="스크린샷 2022-07-22 오전 1 47 34" src="https://user-images.githubusercontent.com/87293880/180269655-42c60114-dfb3-4f94-84b0-472b562d4719.png">
+
+<img width="1159" alt="스크린샷 2022-07-22 오전 1 47 45" src="https://user-images.githubusercontent.com/87293880/180269671-276458d0-9d00-4abc-80d6-145add9f01e3.png">
+<img width="1158" alt="스크린샷 2022-07-22 오전 1 48 01" src="https://user-images.githubusercontent.com/87293880/180269699-8e9c21e4-876e-4ba3-8ffe-829245ee48ff.png">
+<img width="1158" alt="스크린샷 2022-07-22 오전 1 48 08" src="https://user-images.githubusercontent.com/87293880/180269709-c5050c87-1f28-4ff3-b224-7b3f918d91ed.png">
+<img width="1160" alt="스크린샷 2022-07-22 오전 1 48 16" src="https://user-images.githubusercontent.com/87293880/180269724-2cd3c7ea-2238-44d6-ad2d-48e538a8eece.png">
+<img width="1159" alt="스크린샷 2022-07-22 오전 1 48 24" src="https://user-images.githubusercontent.com/87293880/180269732-310dae5a-3b00-44a9-9b47-8bf620f4948b.png">
+
+
+
+
 
 
 
