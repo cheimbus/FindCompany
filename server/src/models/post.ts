@@ -12,7 +12,7 @@ interface PostsAttributes {
 }
 
 /**
- * @description detail - ?은 공고문에서 가져올 값들은 기본으로 detail을 제외시키고 가져오기 때문에
+ * @description @detail - ?은 공고문에서 가져올 값들은 기본으로 detail을 제외시키고 가져오기 때문에
  * detail값을 없애고 보여줘야해서 와일드카드 ? 을 사용
  */
 export class Posts extends Model<PostsAttributes>{

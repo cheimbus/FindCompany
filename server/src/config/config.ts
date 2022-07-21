@@ -2,7 +2,7 @@ import * as dotenv from 'dotenv';
 dotenv.config()
 
 /**
- * @description config - 개발 데이터베이스 환경 세팅
+ * @description @config - 개발 데이터베이스 환경 세팅
  * @case : 개체 하나의 모듈을 내보내는 방법
  * 이때 import를 할때는 {}중괄호를 생략하고 가져올 수 있음
  */

@@ -2,7 +2,7 @@ import { Posts } from "../../models/post";
 import { RequestHandler } from "express";
 
 /**
- * @description companySearch - 쿼리를 받아서 name, country, position, tech로 검색하여
+ * @description @companySearch - 쿼리를 받아서 name, country, position, tech로 검색하여
  * 해당하는 공고문을 리턴합니다.
  */
 export const companySearch : RequestHandler = async (req, res, next) => {

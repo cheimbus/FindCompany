@@ -2,7 +2,7 @@ import { Posts } from "../../models/post";
 import { RequestHandler } from "express";
 
 /**
- * @description deleteCompany - 해당 공고문을 삭제한다.
+ * @description @deleteCompany - 해당 공고문을 삭제한다.
  */
 export const deleteCompany: RequestHandler = async (req, res, next) => {
     

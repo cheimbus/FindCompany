@@ -2,7 +2,7 @@ import { Posts } from "../../models/post";
 import { RequestHandler } from "express";
 
 /**
- * @description getAllCompany - 모집 공고문 전체를 리턴합니다.
+ * @description @getAllCompany - 모집 공고문 전체를 리턴합니다.
  */
 export const getAllCompany: RequestHandler = async (req, res, next) => {
   try {

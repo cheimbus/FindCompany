@@ -2,7 +2,7 @@ import { Posts } from "../../models/post";
 import { RequestHandler } from "express";
 
 /**
- * @description companyDetail - 일반 공고문에는 보이지 않는 detail을 리턴한다.
+ * @description @companyDetail - 일반 공고문에는 보이지 않는 detail을 리턴한다.
  */
 export const companyDetail: RequestHandler = async (req, res, next) => {
     
