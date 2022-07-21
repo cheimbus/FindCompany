@@ -37,4 +37,3 @@ app.set("port", process.env.PORT || 3000);
 app.listen(app.get("port"), () => {
     console.log(`🐥서버가 ${app.get("port")}로 열렸습니다!`)
 })
-app.listen(3000);
