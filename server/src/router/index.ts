@@ -15,6 +15,6 @@ router.delete("/posts/:id", deleteCompany);
 router.get("/posts/detail/:id", companyDetail);
 router.put("/posts/:id",companyModify);
 router.get("/search?", companySearch);
-router.post("/user/:id/company/:employerid", userApply);
+router.post("/users/:id/companies/:employerid", userApply);
 
 export default router;
