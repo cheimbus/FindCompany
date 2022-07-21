@@ -4,7 +4,7 @@ import { Users } from "../../models/user";
 import { RequestHandler } from "express";
 
 /**
- * @description addCompanyUserApplicant - 테스트하기 위해 공고문과 유저, 지원자를 만듦
+ * @description @addCompanyUserApplicant - 테스트하기 위해 공고문과 유저, 지원자를 만듦
  */
 export const addCompanyUserApplicant: RequestHandler = async (req, res, next) => {
         
@@ -33,7 +33,8 @@ export const addCompanyUserApplicant: RequestHandler = async (req, res, next) =>
         where: { id : 1 },
         defaults: {
           id : 1,
-          user_id: 1,
+          user_id: 2,
+          post_id: 1,
           employer_id : 123123,
           is_apply: 0,
         }

@@ -35,7 +35,8 @@ Posts.init(
         autoIncrement: true,
         type: DataTypes.INTEGER,
         allowNull: false,
-        primaryKey: true
+        primaryKey: true,
+        onDelete : "cascade"
       },
       name: {
         type: DataTypes.STRING(20),
