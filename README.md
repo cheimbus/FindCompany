@@ -35,7 +35,8 @@ npm start
 - sequelize
 
 ## 4. 모델 스키마
-<img width="1035" height="300" alt="스크린샷 2022-07-21 오후 5 49 40" src="https://user-images.githubusercontent.com/87293880/180174458-94e35284-4e15-43a4-9f7e-34068e7c0cde.png">
+<img width="1035" alt="스크린샷 2022-11-29 오후 4 49 03" src="https://user-images.githubusercontent.com/87293880/204469794-3ddcda83-182c-4a95-9fd3-55b9c462e4e9.png">
+
 
 ## 5. 구현 목록
 * 채용공고, 사용자 목록 데이터생성
