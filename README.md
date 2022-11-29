@@ -34,7 +34,7 @@ npm start
 - mysql
 - sequelize
 
-## 4. 모델 스키마
+## 4. DB 다이어그램
 <img width="1035" alt="스크린샷 2022-11-29 오후 4 49 03" src="https://user-images.githubusercontent.com/87293880/204469794-3ddcda83-182c-4a95-9fd3-55b9c462e4e9.png">
 
 
